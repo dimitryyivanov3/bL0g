@@ -18,6 +18,7 @@ The goal of this repository is to foster knowledge sharing and provide resources
 
 ## Blog Topics
 
+
 Here are some of the blog topics available in this repository:
 
 - [**Introduction to Malware Analysis**](google.com): A beginner-friendly guide to understanding and analyzing malware.
@@ -46,16 +47,7 @@ You can view the blogs directly in this repository by navigating to the respecti
 2. Click on the file to open it.
 3. Read the article directly on GitHub or clone the repository to read it locally.
 
-## License
 
-This repository is licensed under the **MIT License**. You are free to use, modify, and distribute the content, provided you include proper attribution and adhere to the terms of the license.
-
-## Contact
-
-If you have any questions, suggestions, or feedback, feel free to contact the repository maintainers via the following:
-
-- **Email**: [a@ccc.com]
-- **GitHub Issues**: Feel free to open an issue if you encounter any problems or have any suggestions.
 
 ## Disclaimer
 

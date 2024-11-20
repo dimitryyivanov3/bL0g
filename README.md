@@ -24,7 +24,7 @@ Here are some of the blog topics available in this repository:
 - [**How to Protect Your Network from Ransomware Attacks**](google.com): Practical advice for defending against ransomware.
 - [**Cryptography Basics: Symmetric vs Asymmetric Encryption**](link-to-article): An overview of the two main types of encryption used in cybersecurity.
 - [**Understanding Cross-Site Scripting (XSS) Vulnerabilities**](google.com): A detailed article on the different types of XSS and how to mitigate them.
-- [**The Importance of Multi-Factor Authentication (MFA)**](https://github.com/dimitryyivanov3/Lab_Phantom): Why MFA is a critical security measure for protecting online accounts.
+- [**The Importance of Multi-Factor Authentication (MFA)**](google.com): Why MFA is a critical security measure for protecting online accounts.
 - [**Building an Incident Response Plan**](osint.com): How to prepare for and respond to security incidents in an organization.
 
 Each blog is carefully written to provide useful information, practical advice, and examples to help you better understand the concepts and challenges in the field of cybersecurity.
